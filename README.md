@@ -1,7 +1,6 @@
-# NeoCord
-Client mod for Discord , via Mobile &amp; PC .
-# NeoCord
-A sleek, powerful, and customizable Discord client mod for all platforms.
+
+# NeoCordA 
+sleek, powerful, and customizable Discord client mod for all platforms.
 
 ## Features
 - Cross-platform: Browser, Desktop, iOS, Android.
