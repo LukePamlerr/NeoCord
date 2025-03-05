@@ -1,6 +1,6 @@
 
-# NeoCordA 
-sleek, powerful, and customizable Discord client mod for all platforms.
+# NeoCord 
+A sleek, powerful, and customizable Discord client mod for all platforms.
 
 ## Features
 - Cross-platform: Browser, Desktop, iOS, Android.
